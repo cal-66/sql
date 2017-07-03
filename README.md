@@ -1,0 +1,1 @@
+realPython course. Section 2 working with sqlite introduction
